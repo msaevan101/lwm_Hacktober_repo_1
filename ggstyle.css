@@ -11,6 +11,15 @@ body{
     overflow-x: hidden;
   }
 
+.preload {
+   width:75px;
+   height: 75px;
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   background: #fff;
+}
+
 *{
     margin: 0;
     padding: 0;
